@@ -1,4 +1,4 @@
-# PROYECTO FILMFINDER
+# Proyecto FilmFinder
 
 ## Descripción:
 
